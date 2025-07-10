@@ -1,5 +1,5 @@
 # NSGCunningham
-Ap-PRAM-functions
+Ap-PRAM-Codes
 
 This repository is used for automatic portable-photonic resonator absorption microscopy (ap-PRAM) developed by nanosensors group, University of Illinois at Urbana-Champaign, led by Professor Brian Cunningham.
 Details of the project, instrumentation, and features of PRAM system can be found from references below:
